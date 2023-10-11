@@ -1,1 +1,2 @@
 This is some voodoo stuff right here bruv
+New line in file4.txt
